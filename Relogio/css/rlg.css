@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to left, rgb(163, 161, 161), rgba(1, 1, 88, 0.726));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.central{
+    width: 310px;
+    height: 100px;
+    background: rgba(1, 1, 88, 0.726);
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    
+   
+    
+}
+
+.central div{
+    width: 100px;
+    height: 100px;
+    padding: 1px;
+    align-items: center;
+    text-align: center;
+    background: white;
+    display: flex;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: 80px;
+}
+
+.central .pontos{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 80px;
+}
